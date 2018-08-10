@@ -1,4 +1,4 @@
-# synch_forktoremotebrnach
+# sync forked branch  to remote branch 
 ### 1. Clone your fork:
 
     git clone git@github.com:YOUR-USERNAME/YOUR-FORKED-REPO.git
